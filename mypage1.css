@@ -1,0 +1,72 @@
+.btn {
+    color: #c6c7d1;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+
+}
+
+.btn:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+img {
+    width: 188px;
+    height: 260px;
+    display: block;
+    position: absolute;
+    left: 169px;
+    top: 159px;
+}
+
+.ss {
+    float: left;
+}
+
+div.transbox {
+    float: left;
+    width: 1274px;
+    height: 505px;
+    margin: 90px 90px;
+    background-color: #ffffff;
+    border: 1px solid #FFFFFF;
+    opacity: 0.8;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    padding-left: 300px;
+}
+
+a.cc:visited {
+    color: #1b1b1d;
+}
+
+a.cc:hover {
+    color: #504f4c;
+}
+
+.kk {
+    background: linear-gradient(to right, #ADD8E6, #4682B4, #2470bd);
+    height: 9px;
+    width: 189px;
+    position: absolute;
+    left: 169px;
+    top: 159px;
+}
+
+.cc {
+    background: linear-gradient(#ADD8E6, #4682B4, #2470bd);
+    width: 11px;
+    height: 259px;
+    position: absolute;
+    left: 158px;
+    top: 159px;
+}
